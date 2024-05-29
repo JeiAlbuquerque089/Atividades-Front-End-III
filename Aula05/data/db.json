@@ -1,0 +1,18 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Jeimison",
+            "email": "Jei@gmail.com",
+            "curso": "Sistema para Internet"
+        },
+        {
+            "ide": 2,
+            "nome": "cris",
+            "email": "cris@gmail.com",
+            "curso": "Sistema da Informaçcao"
+    
+        }
+    ]
+    
+}
